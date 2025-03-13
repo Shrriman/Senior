@@ -16,7 +16,7 @@ body {
 
 .ballon {
     position: fixed;
-    height: 200px;
+    height: 180px;
     top: 50px;
     right: 20px;
 }
