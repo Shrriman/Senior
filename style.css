@@ -7,7 +7,7 @@ body {
 
 .img {
     position: fixed;
-    width : 90px;
+    width : -100px;
     top: 163px;
 }
 
