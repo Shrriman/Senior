@@ -257,7 +257,7 @@ body {
 
 .inside-text {
     position: relative;
-    top: -290px;
+    top: 100px;
     left: 30px;
     transform: scale(0.7);
 }
