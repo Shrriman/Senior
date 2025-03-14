@@ -257,14 +257,14 @@ body {
 
 .inside-text {
     position: relative;
-    top: 100px;
+    top: -290px;
     left: 30px;
     transform: scale(0.7);
 }
 
 .wishes {
     position: relative;
-    top: -237px;
+    top: -290px;
     margin: 25px;
 }
 
