@@ -8,6 +8,7 @@ body {
 .img {
     position: fixed;
     width : 90px;
+    top: 163px;
 }
 
 .star {
