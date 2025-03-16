@@ -5,14 +5,13 @@ body {
     background-size: cover;
 }
 
-.img {
-    width : 90px;
+img {
+    width : 100px;
 }
 
 .star {
-    position: fixed;
+    position: relative;
     top: 20px;
-    height: 150px;
     left: 20px;
 }
 
@@ -38,6 +37,7 @@ body {
     transform-style: preserve-3d;
     transform: perspective(2500px);
     transition: 4s;
+
 }
 
 .birthdayCard:hover {
@@ -71,6 +71,7 @@ body {
     background-color: #ffee00;
     width: 250px;
     height: 391px;
+    border: 1px solid black;
     overflow: hidden;
     transform-origin: left;
     box-shadow: inset 100px 20px 100px rgba(0, 0, 0, .13), 30px 0 50px rgba(0, 0, 0, 0.1);
@@ -243,6 +244,7 @@ body {
     background-color: #ffee00;
     width: 250px;
     height: 391px;
+    border: 1px solid black;
     z-index: -1;
     left: 0;
     top: 0;
@@ -258,7 +260,7 @@ body {
 .inside-text {
     position: relative;
     top: -290px;
-    left: 30px;
+    left: 40px;
     transform: scale(0.7);
 }
 
