@@ -98,7 +98,7 @@ img {
 .bday,
 .queen {
     position: relative;
-    font-family: arial;
+    font-family: arial, sans-serif;
     font-size: 35px;
     text-align: center;
     backface-visibility: hidden;
