@@ -95,12 +95,20 @@ img {
     top: 123px;
 }
 
-.bday {
+.bday,
+.queen {
     position: relative;
     font-family: arial;
     font-size: 35px;
     text-align: center;
-    top: 163px;
+}
+
+.bday {
+        top: 163px;
+}
+
+.queen {
+    top: 198px;
 }
 
 .wrap-deco {
