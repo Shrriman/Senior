@@ -796,7 +796,7 @@ body {
 
 }
 
-#hello {
+#video {
     position: relative;
     margin-top: 30px;
     background-color: var(--color-text-pink);
@@ -814,20 +814,20 @@ body {
     transform: scale(1);
     transition: all .5s ease-in-out;
 }
-#hello:active{
+#video:active{
     transform: scale(0.7);
 }
-#hello i{
+#video i{
     margin-left: 5px;
 }
-#hello:hover{
+#video:hover{
     border-color: var(--color-heart);
     background-color: var(--color-heart);
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-#hello:hover i{
+#video:hover i{
     animation: rotateHeart 1s infinite linear;
 }
 @keyframes rotateHeart{
